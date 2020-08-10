@@ -1,6 +1,6 @@
-Ancient 3.8
+Ancient 3.9
 
 Device Changelog:
-- Prebuilt AncientParts
-- Added FaceUnlock
-- Latest iMMensity upstream
+- Fixed Vowifi
+- Added Screen Off Fod
+- Added XiaomiParts
