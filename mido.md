@@ -1,7 +1,7 @@
 AncientOS 3.9 | Primeval | Koshiki | July 25, 2020
 
 Source Changelogs:
-• July security patch (r40)
+• August security patch (r41)
 • Removed selinux switch
 • Improve fod
 • Swipe up on keyguard to use FU
@@ -50,16 +50,9 @@ Source Changelogs:
 -----------------
 
 Devie Changelogs:
-• Reverted some stuff in device tree
-• Update Spectrum Profiles from Underground Kernel
-• Regenerate thermal-engine.conf
-• Update Dalvik heap configuration
-• Drop algo_type from physical sensors
-• Some Thermal Engine improvements
-• Disable debug from thermal-engine.conf
-• Fix Vibrator Intensity ( Can't Increase or Decrease )
-• Fix some lags and improve stability
-• Limit hotspot to 12 devices
-• Improve WiFi connection stability
-• Added sepolicy and fix denials
-and some under the hood improvements
+• Optimize PowerHal nodes and other stuff
+• Update Powerhint values
+• Fix Hotspot
+• Fix Max and Min CPU Freq issue
+• Reverted some commits for fixing issues
+some other optimizations and fixes...
