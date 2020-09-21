@@ -1,4 +1,4 @@
-AncientOS 4.0 Final | Primeval | Koshiki | Sept 20, 2020
+AncientOS 4.0 Final | Primeval | Koshiki | Sept 21, 2020
 
 Source Changelogs:
 • Sept security patch
